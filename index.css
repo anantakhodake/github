@@ -116,7 +116,6 @@ body{
 .p-btn:hover{
     background-color: blue;
     color: white;
-    cursor: pointer;
 }
 .pagination-container{
     display: flex;
