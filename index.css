@@ -4,7 +4,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    /* background: rgb(74, 73, 73); */
+    background: rgb(74, 73, 73);
 }
 
 .container{
